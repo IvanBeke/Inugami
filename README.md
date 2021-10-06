@@ -3,3 +3,4 @@ Inugami
 
 - Reizei
 - Ackerman
+- Ochaco
