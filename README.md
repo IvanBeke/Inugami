@@ -4,3 +4,4 @@ Inugami
 - Reizei
 - Akabane
 - Ackerman
+- Ochaco
