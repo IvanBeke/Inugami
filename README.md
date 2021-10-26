@@ -8,3 +8,4 @@ Inugami
 - Tomoe
 - Naruto
 - Sasuke
+- Sakura
