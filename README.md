@@ -7,3 +7,4 @@ Inugami
 - Ochaco
 - Tomoe
 - Naruto
+- Sasuke
