@@ -6,3 +6,4 @@ Inugami
 - Ackerman
 - Ochaco
 - Tomoe
+- Naruto
