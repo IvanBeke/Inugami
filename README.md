@@ -5,3 +5,4 @@ Inugami
 - Akabane
 - Ackerman
 - Ochaco
+- Tomoe
